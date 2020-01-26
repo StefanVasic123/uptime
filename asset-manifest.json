@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/StefanVasic123/uptime/static/css/main.1b398baf.chunk.css",
+    "main.js": "/StefanVasic123/uptime/static/js/main.c3fc7b46.chunk.js",
+    "main.js.map": "/StefanVasic123/uptime/static/js/main.c3fc7b46.chunk.js.map",
+    "runtime-main.js": "/StefanVasic123/uptime/static/js/runtime-main.2298cddd.js",
+    "runtime-main.js.map": "/StefanVasic123/uptime/static/js/runtime-main.2298cddd.js.map",
+    "static/js/2.27302516.chunk.js": "/StefanVasic123/uptime/static/js/2.27302516.chunk.js",
+    "static/js/2.27302516.chunk.js.map": "/StefanVasic123/uptime/static/js/2.27302516.chunk.js.map",
+    "index.html": "/StefanVasic123/uptime/index.html",
+    "precache-manifest.6c76a904159983836bf4691939d61834.js": "/StefanVasic123/uptime/precache-manifest.6c76a904159983836bf4691939d61834.js",
+    "service-worker.js": "/StefanVasic123/uptime/service-worker.js",
+    "static/css/main.1b398baf.chunk.css.map": "/StefanVasic123/uptime/static/css/main.1b398baf.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2298cddd.js",
+    "static/js/2.27302516.chunk.js",
+    "static/css/main.1b398baf.chunk.css",
+    "static/js/main.c3fc7b46.chunk.js"
+  ]
+}
